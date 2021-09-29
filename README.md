@@ -21,9 +21,10 @@
   <a href="https://dev-jhl.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-FFA500?style=flat-square&logo=Telegraph&logoColor=white&link=https://dev-jhl.tistory.com/"/></a>
   <a href="mailto:hyerijang0822@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyerijang0822@gmail.com"/></a>
 </p>
+<p align="center">
 
-<center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyerijang" />
+</a>
 
- [![hyerijang's github stats](https://github-readme-stats.vercel.app/api?username=hyerijang)](https://github.com/anuraghazra/github-readme-stats)
- 
-</center>
+</p>
